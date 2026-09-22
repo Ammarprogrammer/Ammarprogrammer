@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ammar Ahmed
 
-### AI Product Builder & Full-Stack Developer
+### AI Product Engineer & Full-Stack Developer
 
 I build **AI-powered products, business web applications, automation systems, CRM dashboards, and ML-powered analytics solutions**.
 
@@ -56,9 +56,9 @@ Explore my repositories to see the projects, implementation details, and technol
 * 💬 **Discord:** https://discord.gg/ammarcoder
 * 📧 **Email:** [ammarahmed.tech@gmail.com](mailto:ammarahmed.tech@gmail.com)
 
----
-
 ### 💡 Building at the intersection of AI, software, business automation, and real-world problems.
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
